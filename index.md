@@ -6,7 +6,7 @@ Je suis étudiante en 1e année en informatique à la HEH
 
 ## Liens
  
-- [LinkedIn](www.linkedin.com/in/virginie-mairesse-226974329)
+- [LinkedIn](https://linkedin.com/in/virginie-mairesse-226974329)
 - [GitHub](https://github.com/Virginie-9)  
 - Email : [virginie.mairesse@std.heh.be](virginie.mairesse@std.heh.be)  
 

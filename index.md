@@ -11,10 +11,13 @@ Je suis étudiante en 1e année en informatique à la HEH
 - Email : [virginie.mairesse@std.heh.be](virginie.mairesse@std.heh.be)  
 
 ---
+## Compétences
 
 **Compétences principales :**  
 - **Langages** : Python, HTML, CSS 
 - **Outils** : Cisco 
 
 ---
+## Mes projets
+
 Découvrez mes projets ici : [projets](projet.md)
